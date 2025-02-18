@@ -1,0 +1,26 @@
+.send{
+    background-color: rgb(133, 167, 100);
+    display: inline-block;
+    margin: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.send form{
+    display: flex;
+    flex-direction: column;
+}
+.send input{
+    margin: 20px;
+    height: 25px;    
+}
+.send textarea{
+    margin: 20px;
+    height: 150px;
+}
+.send button{
+    height: 50px;
+    margin: 15px;
+    border: black;
+    background-color: rgb(41, 68, 59);
+
+}

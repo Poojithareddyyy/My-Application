@@ -1,0 +1,11 @@
+.post{
+    background-color: aquamarine;
+    border: 4px solid grey;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px burlywood;
+    border-radius: 40px;
+}
+.post h2{
+    color: rgb(29, 44, 44);
+}
